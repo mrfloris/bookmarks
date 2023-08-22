@@ -10,7 +10,7 @@ Since the inception of Mozilla, Netscape, Internet Explorer, Firefox, Chrome, an
 
 ## Contributions
 
-With the assistance of the great Internet people, I aspire to enhance my organizational skills, refine my list, and acquire useful tricks and tips that can be shared here too.
+With the assistance of the great people of the Internet, I aspire to enhance my organizational skills, refine my list, and acquire useful tricks and tips that can be shared here too.
 
 - Please don't hesitate to clone and submit pull requests to this repository for making suggestions. If you come across any broken links, you can also open an issue ticket to report them.
 
@@ -40,18 +40,13 @@ However, if I'm being candid, I'll likely end up with over 100 bookmarks scatter
 
 ## Tools
 
-At this point I have no tools on how to export/import this, to help YOU. I am open to suggestions; preferably something that works on macOS / Chrome, because that's my daily driver. 
+At this point I have no tools on how to export/import this, to help YOU. I am open to suggestions; preferably something that works on macOS / Chrome, because that's my daily driver.
 
 ## Call for Action
 
 If you see the type of bookmarks I have, and you have some great handy tools, or a more complete list of streaming services, or anything you feel like sharing; contribute! I welcome to learn. 
 
 - Note please: Let's keep it family-friendly. I have no interest in anything illegal, dodgy, sus, nsfw, or stuff along those lines. 
-
-## Version
-
-- #mrf Bookmarks, version 0.0.1, build 002.
-- Last update: August 20th, 2023.
 
 ## Resources
 
@@ -72,3 +67,8 @@ A temporary section to collect resources, research material, suggestions, links 
 ### Issues
 
 - Github Issues that require my attention perhaps
+
+## Version
+
+- #mrf Bookmarks, version 0.1.0, build 004.
+- Last update: August 20th, 2023.
